@@ -15,7 +15,7 @@ This repository is created to provide a user-friendly interface for the team to 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/uongthanhtu/Swagger-SWP-HIVSystem.git
+    git clone (https://github.com/uongthanhtu/swagger-swp-hiv-system.git)
     ```
 
 2. **Open the `index.html` file**  
